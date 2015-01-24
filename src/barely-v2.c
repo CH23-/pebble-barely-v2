@@ -1,7 +1,7 @@
 #include <pebble.h>
 
 enum {
-	KEY_INVERTED = 0,
+	KEY_INVERTED = 1,
 	KEY_MMDD = 1
 };
 
